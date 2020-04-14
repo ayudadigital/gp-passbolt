@@ -1,5 +1,25 @@
 # Changelog
 
+## v1.1.0 (2020-04-14)
+
+### Changes
+
+#### Upgrade
+
+* Change references from teecke to tpbtools ([eccc8d1](https://github.com/tpbtools/gp-passbolt/commit/eccc8d1))
+
+#### Build
+
+* Update Auto Release Log adding v1.1.0 info with JPL ([39e9cf0](https://github.com/tpbtools/gp-passbolt/commit/39e9cf0))
+
+#### Docs
+
+* Generate v1.0.0 changelog with JPL ([29043c5](https://github.com/tpbtools/gp-passbolt/commit/29043c5))
+
+### Authors
+
+* Pedro Amador
+
 ## v1.0.0 (2020-04-14)
 
 ### Changes
