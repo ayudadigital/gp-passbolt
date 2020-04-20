@@ -1,7 +1,3 @@
-# DEPRECATED
-
-Please visit https://github.com/tpbtools/gp-passbolt/releases
-
 # Generic Platform - Passbolt Service
 
 ## Overview
