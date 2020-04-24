@@ -11,7 +11,7 @@ services:
       - passboltdb:/var/lib/mysql
 
   passbolt:
-    image: tpbtools/gp-passbolt:1.1.0
+    image: ayudadigital/gp-passbolt:1.1.0
     build: passbolt
     ports:
       - 10080:80
