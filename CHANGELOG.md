@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.1 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.1 info with JPL ([098350d](https://github.com/ayudadigital/gp-passbolt/commit/098350d))
+* Use jpl v6.2.0 ([27cc476](https://github.com/ayudadigital/gp-passbolt/commit/27cc476))
+
+#### Docs
+
+* Generate v2.0.0 changelog with JPL ([85f03ef](https://github.com/ayudadigital/gp-passbolt/commit/85f03ef))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.0 (2020-04-24)
 
 ### Changes
